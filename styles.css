@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  background-color: whitesmoke;
+}
+#headers {
+  background-color: darkgrey;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 400px;
+  margin-left: 700px;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+#inputs {
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 700px;
+  height: 260px;
+  margin-left: 545px;
+  background-color: oldlace;
+  text-align: left;
+}
+
+.inputs__input-id {
+  margin-top: 70px;
+  margin-left: 67px;
+}
+
+.inputs__input-password {
+  margin-top: 60px;
+  margin-right: 25px;
+  margin-left: 20px;
+}
+
+.inputs__id-text {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 25px;
+  color: indianred;
+}
+
+.inputs__password-text {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 5px;
+  color: indianred;
+}
+
+input {
+  height: 20px;
+  width: 200px;
+}
+
+.headers__header {
+  font-weight: bold;
+  color: wheat;
+  text-shadow: 0px 0px 20px black;
+}
+
+.idAlertStyle {
+  color: crimson;
+  font-style: italic;
+  margin-left: 10px;
+  font-size: 13px;
+}
+
+.passwordAlertStyle {
+  color: crimson;
+  font-style: italic;
+  margin-left: 10px;
+  font-size: 13px;
+}
+
+.checkButton__button {
+  margin-top: 40px;
+  width: 200px;
+  height: 100px;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+.checkButton__text {
+  font-size: 30px;
+  font-weight: bold;
+}
